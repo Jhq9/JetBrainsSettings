@@ -1,0 +1,61 @@
+<templateSet group="user">
+  <template name="restapi" value="@Api(tags = &quot;$descript$&quot;, description = &quot;$descript$增删改查&quot;)&#10;@RestController&#10;@RequestMapping(&quot;/api/$modelName$&quot;)" description="rest api" toReformat="false" toShortenFQNames="true">
+    <variable name="descript" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="modelName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="api" value="/**&#10; * logger&#10; */&#10;private static final Logger LOGGER = LoggerFactory.getLogger($className$.class);&#10;&#10;&#10;@ApiOperation(value = &quot;$descript$详情&quot;, notes = &quot;根据id获取$descript$详情&quot;)&#10;@ApiImplicitParam(name = &quot;id&quot;, value = &quot;id&quot;, paramType = &quot;path&quot;)&#10;@GetMapping(&quot;/{id}&quot;)&#10;public Result get$model$(@PathVariable Long id) {&#10;&#9;LOGGER.info(&quot;API 调用 ：根据id获取$descript$详情&quot;);&#10;&#10;&#9;return ResultGenerator.genSuccessResult();&#10;}&#10;&#10;@ApiOperation(value = &quot;$descript$列表&quot;, notes = &quot;获取$descript$列表&quot;)&#10;@GetMapping(&quot;&quot;)&#10;public Result list$model$() {&#10;&#9;LOGGER.info(&quot;API 调用 ： 罗列所有的$descript$&quot;);&#10;&#10;&#9;return ResultGenerator.genSuccessResult();&#10;}&#10;&#10;@ApiOperation(value = &quot;保存$descript$&quot;, notes = &quot;保存一个新的$descript$&quot;)&#10;@PostMapping(&quot;&quot;)&#10;public Result save$model$() {&#10;&#9;LOGGER.info(&quot;API 调用 ：保存一个新的$descript$&quot;);&#10;&#10;&#9;return ResultGenerator.genSuccessResult();&#10;}&#10;&#10;@ApiOperation(value = &quot;信息更新&quot;, notes = &quot;更新$descript$的信息&quot;)&#10;@ApiImplicitParam(name = &quot;id&quot;, value = &quot;$descript$id&quot;, paramType = &quot;path&quot;)&#10;@PutMapping(&quot;/{id}&quot;)&#10;public Result update$model$(@PathVariable Long id) {&#10;&#9;LOGGER.info(&quot;API 调用 ： 更新$descript$的信息&quot;);&#10;&#10;&#9;return ResultGenerator.genSuccessResult();&#10;}&#10;&#10;@ApiOperation(value = &quot;删除&quot;, notes = &quot;根据id删除$descript$&quot;)&#10;@DeleteMapping(&quot;/{id}&quot;)&#10;public Result remove$model$(@PathVariable Long id) {&#10;&#9;LOGGER.info(&quot;API 调用 ：根据id删除$descript$&quot;);&#10;&#10;&#9;return ResultGenerator.genSuccessResult();&#10;}&#10;" description="api" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="descript" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="/**&#10; * logger&#10; */&#10;private static final Logger LOGGER = LoggerFactory.getLogger($class$.class);" description="Logger" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cc" value="/**&#10; *  $desc$&#10; *  &#10; *  @author    $user$&#10; *  @date      $date$ $time$&#10; *  @version   1.0&#10; */" description="comment" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="seruid" value="private static final long serialVersionUID = 1L;" description="serialVersionUID" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trans" value="@Transactional(rollbackFor = TransactionException.class)&#10;" description="Transactional" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="msif" value="&#9;&#9;&#9;+ &quot;&lt;if test=\&quot;$model$.$property$ != null and $model$.$property$ != ''\&quot;&gt;$column$=#{$model$.$property$},&lt;/if&gt;&quot;" description="mybatis if string" toReformat="false" toShortenFQNames="true">
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="property" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="column" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="SQL" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="mif" value="&#9;&#9;&#9;+ &quot;&lt;if test=\&quot;$model$.$property$ != null \&quot;&gt;$column$=#{$model$.$property$},&lt;/if&gt;&quot;" description="mybatis if not string" toReformat="false" toShortenFQNames="true">
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="property" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="column" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
