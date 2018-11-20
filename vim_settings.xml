@@ -1,0 +1,1107 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/record/CargoListMapper.java" timestamp="1528005178269">
+        <mark key="[" line="28" column="95" />
+        <mark key="]" line="28" column="118" />
+        <mark key="^" line="27" column="82" />
+        <mark key="." line="28" column="95" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/impl/SiteRecordServiceImpl.java" timestamp="1527917614576">
+        <mark key="[" line="43" column="56" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/record/DriverInfo.java" timestamp="1527760437131">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="4" />
+      </file>
+      <file name="/a.dummy" timestamp="1528270863212">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/service/impl/UserServiceImpl.java" timestamp="1528728096533">
+        <mark key="[" line="155" column="64" />
+        <mark key="]" line="202" column="57" />
+        <mark key="." line="202" column="57" />
+        <mark key="^" line="202" column="57" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/impl/ConstructionLogServiceImpl.java" timestamp="1527917534597">
+        <mark key="[" line="48" column="54" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/project/ReportDepartmentLink.java" timestamp="1528270939544">
+        <mark key="[" line="18" column="18" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/record/CargoListApi.java" timestamp="1527839413845">
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="5" />
+        <mark key="^" line="39" column="5" />
+        <mark key="." line="39" column="5" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/resources/application-pro.yml" timestamp="1527934624196">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="55" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="24" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/impl/ProjectEvaluationServiceImpl.java" timestamp="1527917591129">
+        <mark key="[" line="41" column="56" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/project/QualitySafetyReportRequestVO.java" timestamp="1528274263761">
+        <mark key="[" line="19" column="7" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/record/InspectionItemRecordLinkMapper.java" timestamp="1528167932479">
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/vo/TeamResponseVO.java" timestamp="1527833426052">
+        <mark key="[" line="32" column="17" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/platform/CityRequestVO.java" timestamp="1527835763756">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/company/SubcontractorMapper.java" timestamp="1528086339630">
+        <mark key="[" line="35" column="6" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/GroupService.java" timestamp="1527739240733">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="17" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/plan/PlanResponseVO.java" timestamp="1527835787409">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/core/WebLogAspect.java" timestamp="1528254100652">
+        <mark key="[" line="139" column="9" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/company/DepartmentRequestVO.java" timestamp="1527835801498">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/project/ProjectImage.java" timestamp="1527502336172">
+        <mark key="[" line="32" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/company/DepartmentApi.java" timestamp="1539940659619">
+        <mark key="[" line="26" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/company/CompanyRequestVO.java" timestamp="1528003959653">
+        <mark key="[" line="16" column="5" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/UserService.java" timestamp="1527647573072">
+        <mark key="[" line="49" column="36" />
+        <mark key="]" line="76" column="41" />
+        <mark key="." line="70" column="4" />
+        <mark key="^" line="70" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/project/PrintHistoryMapper.java" timestamp="1528005253134">
+        <mark key="[" line="40" column="83" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/company/CompanyApi.java" timestamp="1539940587273">
+        <mark key="[" line="36" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/impl/PrintHistoryServiceImpl.java" timestamp="1527917544577">
+        <mark key="[" line="42" column="52" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/impl/InspectionItemRecordLinkServiceImpl.java" timestamp="1527843249174">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/company/InvoiceApi.java" timestamp="1539940818437">
+        <mark key="[" line="33" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/vo/CurriculumVitaeResponseVO.java" timestamp="1527741368636">
+        <mark key="[" line="50" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/senior-server-new/seniors/domain/src/main/resources/mapper/content/ContentMapper.xml" timestamp="1527649318037">
+        <mark key="[" line="123" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/senior-server-new/seniors/domain/src/main/resources/mapper/content/RadioMapper.xml" timestamp="1527651827144">
+        <mark key="[" line="246" column="10" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/company/CommonFormApi.java" timestamp="1539940520805">
+        <mark key="[" line="25" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/java/isa/qa/tourism/service/impl/TrainTicketOrdersServiceImpl.java" timestamp="1527851050893">
+        <mark key="[" line="176" column="19" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/test/java/isa/qa/bim/mapper/project/QuantityComparisonMapperTest.java" timestamp="1527748997857">
+        <mark key="[" line="32" column="46" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/project/CustomerMapper.java" timestamp="1527753623873">
+        <mark key="[" line="75" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/test/java/isa/qa/bim/mapper/platform/AttachmentMapperTest.java" timestamp="1528271929351">
+        <mark key="[" line="51" column="5" />
+      </file>
+      <file name="D:/Java/sourcecode/spring_boot_api_project_seed/pom.xml" timestamp="1527995042545">
+        <mark key="[" line="19" column="31" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/project/ProjectUserLink.java" timestamp="1527581529208">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/java/isa/qa/tourism/api/TradeDetailApi.java" timestamp="1527072896622">
+        <mark key="[" line="52" column="3" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/test/java/isa/qa/bim/mapper/plan/PaymentRemindMapperTest.java" timestamp="1527749133811">
+        <mark key="[" line="57" column="40" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/company/DepartmentStaffApi.java" timestamp="1539940739650">
+        <mark key="[" line="27" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/platform/CityApi.java" timestamp="1539941519498">
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/ProjectUserLinkService.java" timestamp="1527581821208">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/company/SubcontractorTypeLinkMapper.java" timestamp="1528085967034">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/ProjectService.java" timestamp="1527833189457">
+        <mark key="[" line="30" column="19" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/QualitySafetyReportService.java" timestamp="1528271311698">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/resources/application.yaml" timestamp="1528681806827">
+        <mark key="[" line="52" column="16" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/letter/ContactLetterApi.java" timestamp="1539941131445">
+        <mark key="[" line="29" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/CargoListRecordLinkService.java" timestamp="1527839671420">
+        <mark key="[" line="9" column="44" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/vo/PersonalSkillResponseVO.java" timestamp="1527735488577">
+        <mark key="[" line="33" column="16" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/impl/CustomerServiceImpl.java" timestamp="1527753955937">
+        <mark key="[" line="111" column="4" />
+        <mark key="]" line="111" column="4" />
+        <mark key="." line="111" column="4" />
+        <mark key="^" line="111" column="4" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/impl/ProblemReportServiceImpl.java" timestamp="1528272543223">
+        <mark key="[" line="49" column="97" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/projection/RoleProjection.java" timestamp="1528726022945">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/dao/UserInfoRepository.java" timestamp="1527833270755">
+        <mark key="[" line="22" column="49" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/record/QualityInspectionItem.java" timestamp="1527835475622">
+        <mark key="[" line="28" column="24" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/record/QualitySpectionItemMapper.java" timestamp="1527760622181">
+        <mark key="[" line="2" column="39" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/resources/application.yaml" timestamp="1528724961816">
+        <mark key="[" line="48" column="22" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/api/CompanyApi.java" timestamp="1527733628215">
+        <mark key="[" line="20" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/api/UserInfoApi.java" timestamp="1528682428451">
+        <mark key="[" line="40" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/config/SecurityConfig.java" timestamp="1528724662421">
+        <mark key="[" line="85" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/record/CargoListRecordLinkMapper.java" timestamp="1527840382453">
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/account/PermissionRequestVO.java" timestamp="1527835841652">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/company/impl/InvoiceServiceImpl.java" timestamp="1527917477088">
+        <mark key="[" line="50" column="65" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/impl/JobRequirementServiceImpl.java" timestamp="1527834626694">
+        <mark key="[" line="34" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/impl/CargoListRecordLinkServiceImpl.java" timestamp="1527839992337">
+        <mark key="[" line="2" column="44" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/record/QuantityInspectionRecordMapper.java" timestamp="1528168559927">
+        <mark key="[" line="2" column="48" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/resources/application-dev.yml" timestamp="1527935479317">
+        <mark key="[" line="34" column="19" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/company/NoticeRequestVO.java" timestamp="1527835811893">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/impl/ManufactureRecordServiceImpl.java" timestamp="1527917598231">
+        <mark key="[" line="42" column="51" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/product/impl/StructureServiceImpl.java" timestamp="1528289226658">
+        <mark key="[" line="55" column="32" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-api-seed-jpa/src/main/java/may/i/jhq/dao/RoleRepository.java" timestamp="1528633918672">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="40" column="44" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/domain/SystemLog.java" timestamp="1528254040822">
+        <mark key="[" line="29" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/product/AuxiliaryMaterialApi.java" timestamp="1529144246046">
+        <mark key="[" line="68" column="12" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/Application.java" timestamp="1528725191146">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/ProjectEvaluationService.java" timestamp="1527129542394">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/record/QualityInspectionItemRequestVO.java" timestamp="1527836353201">
+        <mark key="[" line="22" column="7" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/account/UserResponseVO.java" timestamp="1528101166473">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/UserInfoService.java" timestamp="1528682434680">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/spring-boot-mybatis/src/main/java/isa/qa/project/constants/ProjectConstants.java" timestamp="1527999377241">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/resources/application.yaml" timestamp="1528680990648">
+        <mark key="[" line="16" column="15" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/impl/CargoListServiceImpl.java" timestamp="1527917639858">
+        <mark key="[" line="42" column="57" />
+        <mark key="]" line="42" column="66" />
+        <mark key="." line="42" column="66" />
+        <mark key="^" line="42" column="66" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/record/ManufactureRecordMapper.java" timestamp="1527760756385">
+        <mark key="[" line="2" column="41" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/company/Company.java" timestamp="1528005953962">
+        <mark key="[" line="30" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/company/Subcontractor.java" timestamp="1527917738242">
+        <mark key="[" line="35" column="24" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/project/ProjectMapper.java" timestamp="1528724108312">
+        <mark key="[" line="29" column="22" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/company/Notice.java" timestamp="1527500937350">
+        <mark key="[" line="46" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/resources/application-test.yml" timestamp="1527934613960">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="54" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/impl/QuantityComparisonServiceImpl.java" timestamp="1527751066791">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="58" column="87" />
+        <mark key="^" line="58" column="87" />
+        <mark key="." line="58" column="87" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/company/Invoice.java" timestamp="1527500914961">
+        <mark key="[" line="54" column="23" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/record/QuantityInspectionItemRequestVO.java" timestamp="1527835620245">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-api-seed-jpa/src/main/java/may/i/jhq/service/RoleService.java" timestamp="1527993548925">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/plan/PlanApi.java" timestamp="1539941255089">
+        <mark key="[" line="32" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/plan/impl/PaymentRemindServiceImpl.java" timestamp="1527750870895">
+        <mark key="[" line="107" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/constant/CacheConstant.java" timestamp="1527497227581">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/senior-server-new/seniors/domain/src/main/resources/mapper/content/GoodMapper.xml" timestamp="1527649484310">
+        <mark key="[" line="218" column="22" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/resources/application.yml" timestamp="1527934448507">
+        <mark key="[" line="16" column="16" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/InspectionItemRecordLinkService.java" timestamp="1527842647370">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/utils/AttachmentUtils.java" timestamp="1527833660498">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/company/NoticeApi.java" timestamp="1539940918290">
+        <mark key="[" line="31" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/record/InspectionItemResponseVO.java" timestamp="1528167839186">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/api/AttendanceMachineApi.java" timestamp="1527733894819">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="49" />
+        <mark key="^" line="20" column="49" />
+        <mark key="." line="20" column="49" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/config/security/SecurityUserFactory.java" timestamp="1527646661904">
+        <mark key="[" line="23" column="36" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/vo/TeamRequestVO.java" timestamp="1527738194855">
+        <mark key="[" line="63" column="18" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/utils/AliCloudAuthUtils.java" timestamp="1528681629485">
+        <mark key="[" line="83" column="7" />
+        <mark key="]" line="83" column="6" />
+        <mark key="^" line="83" column="6" />
+        <mark key="." line="83" column="6" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/account/User.java" timestamp="1528101211848">
+        <mark key="[" line="26" column="7" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/company/SubcontractorTypeApi.java" timestamp="1539941061712">
+        <mark key="[" line="31" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/resources/application.yml" timestamp="1528006424305">
+        <mark key="[" line="76" column="15" />
+      </file>
+      <file name="D:/Java/sourcecode/senior-server-new/seniors/domain/src/main/resources/mapper/content/CourseMapper.xml" timestamp="1527649503475">
+        <mark key="[" line="188" column="51" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/dao/SystemLogRepository.java" timestamp="1528254321034">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/record/CargoListRecordLink.java" timestamp="1527836716995">
+        <mark key="[" line="20" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/utils/SmsUtils.java" timestamp="1527845234224">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/platform/AttachmentApi.java" timestamp="1539941420610">
+        <mark key="[" line="38" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/senior-server-new/seniors/domain/src/main/resources/mapper/content/VedioCollectionMapper.xml" timestamp="1527649439467">
+        <mark key="[" line="370" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1528724621881">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/apply/SubcontractApplyApi.java" timestamp="1539940411174">
+        <mark key="[" line="35" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/resources/application-dev.yaml" timestamp="1528681009580">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="5" column="27" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/vo/TeamMemberInfoLittleResponseVO.java" timestamp="1527752118522">
+        <mark key="[" line="12" column="34" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/product/ManufactureRecordMapper.java" timestamp="1528005162039">
+        <mark key="[" line="30" column="103" />
+        <mark key="]" line="30" column="126" />
+        <mark key="^" line="30" column="102" />
+        <mark key="." line="30" column="103" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/project/ConstructionLogMapper.java" timestamp="1528005235595">
+        <mark key="[" line="29" column="64" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/java/isa/qa/tourism/vo/AirRefundDetailListResponseVO.java" timestamp="1539683508909">
+        <mark key="[" line="163" column="39" />
+        <mark key="]" line="163" column="40" />
+        <mark key="." line="163" column="40" />
+        <mark key="^" line="55" column="40" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/api/UserApi.java" timestamp="1528728056814">
+        <mark key="[" line="57" column="46" />
+        <mark key="]" line="66" column="86" />
+        <mark key="^" line="66" column="86" />
+        <mark key="." line="66" column="86" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/impl/ProjectServiceImpl.java" timestamp="1528765323305">
+        <mark key="[" line="216" column="1" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/api/AttendanceRecordApi.java" timestamp="1528682264892">
+        <mark key="[" line="46" column="5" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/resources/application-dev.yml" timestamp="1527844502372">
+        <mark key="[" line="3" column="102" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/java/isa/qa/tourism/vo/TrainRefundDetailListResponseVO.java" timestamp="1539683341376">
+        <mark key="[" line="152" column="39" />
+        <mark key="]" line="152" column="40" />
+        <mark key="." line="152" column="40" />
+        <mark key="^" line="56" column="39" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/plan/PaymentRemindRequestVO.java" timestamp="1527835772884">
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/company/impl/DepartmentStaffServiceImpl.java" timestamp="1528100547880">
+        <mark key="[" line="66" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/product/ContainmentRequestVO.java" timestamp="1527835715240">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/resources/application.yml" timestamp="1527844182469">
+        <mark key="[" line="6" column="34" />
+      </file>
+      <file name="D:/Java/sourcecode/senior-server-new/seniors/category/src/main/java/isa/qa/senior/service/impl/CategoryContentLinkServiceImpl.java" timestamp="1527649092402">
+        <mark key="[" line="72" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/impl/AttendanceRecordServiceImpl.java" timestamp="1527830727058">
+        <mark key="[" line="43" column="34" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/vo/AttendanceRecordRequestVO.java" timestamp="1528682314225">
+        <mark key="[" line="60" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/impl/CurriculumVitaeServiceImpl.java" timestamp="1527741341625">
+        <mark key="[" line="45" column="114" />
+        <mark key="]" line="90" column="5" />
+        <mark key="^" line="81" column="0" />
+        <mark key="." line="81" column="4" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/domain/AttendanceRecord.java" timestamp="1527830588018">
+        <mark key="[" line="58" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/constant/CompanyConstant.java" timestamp="1527831756633">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/vo/SystemLogResponseVO.java" timestamp="1528253968215">
+        <mark key="[" line="21" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/project/QualitySafetyReportApi.java" timestamp="1528273755967">
+        <mark key="[" line="19" column="36" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/apply/impl/CheckApplyServiceImpl.java" timestamp="1528947061003">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="58" column="59" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1529144235871">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/plan/PaymentRemindApi.java" timestamp="1539941209094">
+        <mark key="[" line="35" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/runner/AdminInitRunner.java" timestamp="1527647250217">
+        <mark key="[" line="48" column="35" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/config/security/JwtTokenUtil.java" timestamp="1528724700770">
+        <mark key="[" line="89" column="79" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/config/security/SecurityUser.java" timestamp="1527647886471">
+        <mark key="[" line="20" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/company/DepartmentStaffMapper.java" timestamp="1528100578537">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="48" column="79" />
+        <mark key="^" line="48" column="71" />
+        <mark key="." line="48" column="71" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/impl/UserInfoServiceImpl.java" timestamp="1528682657640">
+        <mark key="[" line="45" column="21" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/api/ProjectApi.java" timestamp="1527741965304">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="46" column="5" />
+        <mark key="^" line="67" column="12" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/service/RoleService.java" timestamp="1528727040255">
+        <mark key="[" line="44" column="18" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/constant/RegxConstant.java" timestamp="1527496446651">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/apply/StartApply.java" timestamp="1527579767299">
+        <mark key="[" line="25" column="7" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/pom.xml" timestamp="1528677716386">
+        <mark key="[" line="186" column="17" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/service/UserService.java" timestamp="1528728089566">
+        <mark key="[" line="73" column="26" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/project/InspectionReportMapper.java" timestamp="1528005285753">
+        <mark key="[" line="28" column="69" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/product/Structure.java" timestamp="1528683123236">
+        <mark key="[" line="26" column="5" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/resources/application-dev.yml" timestamp="1527749270689">
+        <mark key="[" line="5" column="26" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/java/isa/qa/tourism/api/UserApi.java" timestamp="1527934237041">
+        <mark key="[" line="77" column="39" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/pom.xml" timestamp="1527995219334">
+        <mark key="[" line="26" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/impl/UserServiceImpl.java" timestamp="1527647863679">
+        <mark key="[" line="191" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/config/security/GeneratorUserDetailService.java" timestamp="1528727794473">
+        <mark key="[" line="25" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/QualityInspectionItemService.java" timestamp="1527836139441">
+        <mark key="[" line="28" column="10" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/resources/application-pro.yml" timestamp="1527844510372">
+        <mark key="[" line="3" column="102" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/CargoListService.java" timestamp="1527838003317">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/plan/PaymentRemindMapper.java" timestamp="1527748118067">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="6" />
+        <mark key="^" line="41" column="6" />
+        <mark key="." line="41" column="6" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/project/ProjectCreateRequestVO.java" timestamp="1527758189109">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/project/ProjectApi.java" timestamp="1528724057890">
+        <mark key="[" line="43" column="9" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/impl/ProjectImageServiceImpl.java" timestamp="1527917553402">
+        <mark key="[" line="56" column="57" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/product/ProductRequestVO.java" timestamp="1527835732660">
+        <mark key="[" line="13" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/utils/AttachmentUtils.java" timestamp="1528272037800">
+        <mark key="[" line="14" column="29" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/properties/AliCloudAuthProperties.java" timestamp="1528681819388">
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="29" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="36" column="20" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/InspectionReportService.java" timestamp="1527135560775">
+        <mark key="[" line="13" column="41" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/platform/AttachmentMapper.java" timestamp="1528273348853">
+        <mark key="[" line="30" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/vo/UserInfoRequestVO.java" timestamp="1527648743361">
+        <mark key="[" line="28" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/account/RolePermissionLinkApi.java" timestamp="1539940080533">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/company/CompanyMapper.java" timestamp="1528005000547">
+        <mark key="[" line="32" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/impl/NoteServiceImpl.java" timestamp="1527741247464">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="63" column="18" />
+        <mark key="." line="63" column="18" />
+        <mark key="^" line="63" column="18" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/company/SubcontractorTypeRequestVO.java" timestamp="1527835817326">
+        <mark key="[" line="14" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/account/UserService.java" timestamp="1527063097897">
+        <mark key="[" line="49" column="51" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/company/impl/CompanyServiceImpl.java" timestamp="1528004772777">
+        <mark key="[" line="66" column="29" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/api/AttachmentApi.java" timestamp="1528682911692">
+        <mark key="[" line="45" column="42" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/apply/SubcontractApplyRequestVO.java" timestamp="1527835830091">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/dao/FeedbackRepository.java" timestamp="1527835407885">
+        <mark key="[" line="35" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-api-seed-jpa/src/main/java/may/i/jhq/utils/MailUtils.java" timestamp="1527993535276">
+        <mark key="[" line="20" column="3" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/record/InspectionItemRecordLinkRequestVO.java" timestamp="1527842935484">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/record/SiteRecordMapper.java" timestamp="1528005272704">
+        <mark key="[" line="29" column="22" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/impl/ProjectUserLinkServiceImpl.java" timestamp="1527917605519">
+        <mark key="[" line="44" column="55" />
+      </file>
+      <file name="D:/Java/sourcecode/spring-boot-mybatis/src/main/java/isa/qa/project/Application.java" timestamp="1527999391047">
+        <mark key="[" line="11" column="13" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/vo/RoleResponseVO.java" timestamp="1528723067035">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/record/CargoList.java" timestamp="1527836970669">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-querydsl-seed/src/main/java/isa/qa/project/service/impl/RoleServiceImpl.java" timestamp="1528727043219">
+        <mark key="[" line="86" column="25" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/product/ProductPriceRequestVO.java" timestamp="1527835722731">
+        <mark key="[" line="18" column="7" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/project/MonomerMapper.java" timestamp="1527747597724">
+        <mark key="[" line="25" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/project/CorrectiveFeedback.java" timestamp="1539738787405">
+        <mark key="[" line="61" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/api/SystemLogApi.java" timestamp="1527741850223">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="61" column="12" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/account/RoleRequestVO.java" timestamp="1527835849501">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/project/QualitySafetyReport.java" timestamp="1528274378679">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="55" column="27" />
+        <mark key="^" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/project/ProjectEvaluationMapper.java" timestamp="1528005304775">
+        <mark key="[" line="42" column="57" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/impl/QualityInspectionItemServiceImpl.java" timestamp="1527836254907">
+        <mark key="[" line="2" column="46" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-api-seed-jpa/src/main/java/may/i/jhq/service/impl/RoleServiceImpl.java" timestamp="1527993551994">
+        <mark key="[" line="33" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/QuantityInspectionRecordService.java" timestamp="1528168327858">
+        <mark key="[" line="28" column="5" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/account/UserRequestVO.java" timestamp="1528101194362">
+        <mark key="[" line="22" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/project/QualitySafetyReportMapper.java" timestamp="1528273357584">
+        <mark key="[" line="29" column="138" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="137" />
+        <mark key="." line="29" column="138" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-2.0-learning/property-config/src/main/java/may/i/jhq/MayProperties.java" timestamp="1527137619440">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/enums/AttachmentTypeEnum.java" timestamp="1528682184213">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="38" column="18" />
+        <mark key="^" line="38" column="8" />
+        <mark key="." line="38" column="9" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/resources/import.sql" timestamp="1527478570497">
+        <mark key="[" line="2479" column="1" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/config/security/JwtTokenUtil.java" timestamp="1527647660143">
+        <mark key="[" line="20" column="10" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/product/AuxiliaryMaterialRequestVO.java" timestamp="1527835710778">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-api-seed-jpa/src/main/java/may/i/jhq/dao/UserRepository.java" timestamp="1528725283084">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="86" />
+        <mark key="^" line="32" column="86" />
+        <mark key="." line="32" column="86" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/java/isa/qa/tourism/vo/VisaRefundDetailListResponseVO.java" timestamp="1539683397684">
+        <mark key="[" line="91" column="39" />
+        <mark key="]" line="91" column="40" />
+        <mark key="." line="91" column="40" />
+        <mark key="^" line="55" column="42" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/letter/LetterApi.java" timestamp="1539941192027">
+        <mark key="[" line="30" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/runner/UserInitRunner.java" timestamp="1528006705253">
+        <mark key="[" line="56" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/record/InspectionItemRecordLinkApi.java" timestamp="1527843440518">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/config/WebMvcConfig.java" timestamp="1528100035599">
+        <mark key="[" line="102" column="57" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/apply/ProjectCostApplyRequestVO.java" timestamp="1527835835158">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/project/ReportDepartmentLinkMapper.java" timestamp="1528272828043">
+        <mark key="[" line="19" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/api/GroupApi.java" timestamp="1527736149186">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="4" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/VersionManagerService.java" timestamp="1528285898788">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="4" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="24" column="4" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/resources/application-test.yml" timestamp="1527844520955">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="89" />
+        <mark key="^" line="3" column="89" />
+        <mark key="." line="3" column="89" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/account/RoleApi.java" timestamp="1528007144487">
+        <mark key="[" line="47" column="41" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/java/isa/qa/tourism/vo/AirConsumptionDetailListResponseVO.java" timestamp="1539682920171">
+        <mark key="[" line="68" column="40" />
+        <mark key="]" line="68" column="39" />
+        <mark key="." line="68" column="39" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-api-seed-jpa/src/main/java/may/i/jhq/service/UserService.java" timestamp="1527993541650">
+        <mark key="[" line="18" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/account/UserApi.java" timestamp="1539940200340">
+        <mark key="[" line="83" column="61" />
+        <mark key="]" line="84" column="24" />
+        <mark key="." line="84" column="24" />
+        <mark key="^" line="84" column="11" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/api/AreaApi.java" timestamp="1527733675355">
+        <mark key="[" line="12" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/apply/ProductApplyApi.java" timestamp="1539940351584">
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="35" column="73" />
+        <mark key="." line="35" column="73" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/company/SubcontractorApi.java" timestamp="1539940960773">
+        <mark key="[" line="36" column="14" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/record/InspectionItemRecordLink.java" timestamp="1527842284150">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+      </file>
+      <file name="D:/Java/sourcecode/springboot-api-seed-jpa/src/main/java/may/i/jhq/utils/CglibBeanCopierUtils.java" timestamp="1527993527636">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/project/ProjectUserLinkRequestVO.java" timestamp="1527581971557">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/domain/Company.java" timestamp="1527831697864">
+        <mark key="[" line="81" column="19" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/plan/PlanRequestVO.java" timestamp="1527835782453">
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/vo/UserResponseVO.java" timestamp="1527646567896">
+        <mark key="[" line="44" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/record/QuantityInspectionRecordRequestVO.java" timestamp="1528168646234">
+        <mark key="[" line="16" column="48" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/project/ProjectUserLinkMapper.java" timestamp="1528005341160">
+        <mark key="[" line="39" column="89" />
+        <mark key="]" line="39" column="111" />
+        <mark key="." line="39" column="111" />
+        <mark key="^" line="39" column="111" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/impl/ProjectServiceImpl.java" timestamp="1528724063544">
+        <mark key="[" line="67" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/project/Project.java" timestamp="1528724081069">
+        <mark key="[" line="58" column="7" />
+      </file>
+      <file name="D:/Java/sourcecode/senior-server-new/seniors/domain/src/main/resources/mapper/content/ContentTagLinkMapper.xml" timestamp="1527649517194">
+        <mark key="[" line="0" column="38" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/QuantityInspectionItemService.java" timestamp="1527836055270">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/product/StructureRequestVO.java" timestamp="1528332649884">
+        <mark key="[" line="27" column="11" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/company/InvoiceRequestVO.java" timestamp="1527835807189">
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/record/WarehouseRecordMapper.java" timestamp="1527760560013">
+        <mark key="[" line="2" column="39" />
+      </file>
+      <file name="D:/Java/sourcecode/tourism/src/main/java/isa/qa/tourism/vo/AirplaneRefundDetailListResponseVO.java" timestamp="1539683254047">
+        <mark key="[" line="163" column="39" />
+        <mark key="]" line="163" column="40" />
+        <mark key="." line="163" column="40" />
+        <mark key="^" line="121" column="40" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/config/CacheConfig.java" timestamp="1527496908351">
+        <mark key="[" line="26" column="7" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/account/impl/RolePermissionServiceImpl.java" timestamp="1527917380174">
+        <mark key="[" line="51" column="53" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/product/impl/AuxiliaryMaterialServiceImpl.java" timestamp="1529144254415">
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="102" column="4" />
+        <mark key="." line="102" column="4" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/project/impl/InspectionReportServiceImpl.java" timestamp="1527917575438">
+        <mark key="[" line="42" column="55" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/impl/PersonalSkillServiceImpl.java" timestamp="1527834636701">
+        <mark key="[" line="66" column="26" />
+        <mark key="]" line="90" column="51" />
+        <mark key="^" line="90" column="15" />
+        <mark key="." line="90" column="16" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/project/ProjectManagerRequestVO.java" timestamp="1527753228672">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/impl/QuantityInspectionRecordImpl.java" timestamp="1528169086020">
+        <mark key="[" line="2" column="42" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/account/impl/RoleServiceImpl.java" timestamp="1528006957069">
+        <mark key="[" line="48" column="1" />
+      </file>
+      <file name="D:/Java/sourcecode/spring_boot_api_project_seed/src/main/java/com/company/project/web/UserController.java" timestamp="1527994993682">
+        <mark key="[" line="120" column="37" />
+      </file>
+      <file name="D:/Java/sourcecode/spring-boot-mybatis/src/main/java/isa/qa/project/service/impl/RoleServiceImpl.java" timestamp="1528004668197">
+        <mark key="[" line="62" column="44" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/dao/AttachmentRepository.java" timestamp="1527756945905">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/dao/apply/CheckApplyRepository.java" timestamp="1528946950167">
+        <mark key="[" line="33" column="1" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/account/RoleMapper.java" timestamp="1528007326785">
+        <mark key="[" line="25" column="67" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/project/InspectionReportRequestVO.java" timestamp="1528271998398">
+        <mark key="[" line="29" column="7" />
+      </file>
+      <file name="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/api/GroupMemberApi.java" timestamp="1527733958982">
+        <mark key="[" line="17" column="30" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/apply/ProductApplyRequestVO.java" timestamp="1527835823658">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/apply/ApplyApi.java" timestamp="1539940284143">
+        <mark key="[" line="27" column="0" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/company/CompanyResponseVO.java" timestamp="1528086017515">
+        <mark key="[" line="176" column="27" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/aspect/WebLogAspect.java" timestamp="1527067309884">
+        <mark key="[" line="50" column="24" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/project/QuantityComparisonRequestVO.java" timestamp="1527750487787">
+        <mark key="[" line="19" column="25" />
+      </file>
+      <file name="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/record/WarehouseRecord.java" timestamp="1527758078002">
+        <mark key="[" line="22" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="29" column="16" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/vo/product/ContainmentRequestVO.java" />
+      <jump line="110" column="19" filename="D:/Java/Java8/jdk1.8.0_161/src.zip!/java/lang/String.java" />
+      <jump line="35" column="4" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/model/product/Containment.java" />
+      <jump line="30" column="47" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/product/impl/ContainmentServiceImpl.java" />
+      <jump line="31" column="63" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/product/impl/ContainmentServiceImpl.java" />
+      <jump line="63" column="37" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/product/impl/ContainmentServiceImpl.java" />
+      <jump line="39" column="32" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/product/impl/AuxiliaryMaterialServiceImpl.java" />
+      <jump line="30" column="75" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/product/impl/AuxiliaryMaterialServiceImpl.java" />
+      <jump line="15" column="17" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/product/AuxiliaryMaterialService.java" />
+      <jump line="77" column="21" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/impl/CountryServiceImpl.java" />
+      <jump line="94" column="20" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/impl/CountryServiceImpl.java" />
+      <jump line="37" column="30" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/impl/CountryServiceImpl.java" />
+      <jump line="76" column="19" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/impl/CountryServiceImpl.java" />
+      <jump line="36" column="27" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/impl/CountryServiceImpl.java" />
+      <jump line="24" column="20" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/platform/CountryApi.java" />
+      <jump line="14" column="25" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/CountryService.java" />
+      <jump line="47" column="51" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/platform/CountryApi.java" />
+      <jump line="45" column="23" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/apply/ProductApplyApi.java" />
+      <jump line="43" column="4" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/apply/ProductApplyApi.java" />
+      <jump line="2" column="0" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/apply/ProductApplyApi.java" />
+      <jump line="0" column="0" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/api/apply/ProductApplyApi.java" />
+      <jump line="21" column="25" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/impl/StateServiceimpl.java" />
+      <jump line="39" column="43" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/impl/CountryServiceImpl.java" />
+      <jump line="40" column="15" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/impl/StateServiceimpl.java" />
+      <jump line="24" column="42" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/impl/StateServiceimpl.java" />
+      <jump line="38" column="10" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/StateService.java" />
+      <jump line="13" column="20" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/StateService.java" />
+      <jump line="24" column="41" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/platform/impl/StateServiceImpl.java" />
+      <jump line="35" column="49" filename="D:/Java/sourcecode/bim/src/test/java/isa/qa/bim/mapper/company/CompanyMapperTest.java" />
+      <jump line="15" column="6" filename="E:/maven/repository/tk/mybatis/mapper/3.4.0/mapper-3.4.0.jar!/tk/mybatis/mapper/common/base/select/SelectByPrimaryKeyMapper.class" />
+      <jump line="154" column="7" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/config/security/JwtTokenUtil.java" />
+      <jump line="102" column="6" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/config/security/JwtTokenUtil.java" />
+      <jump line="0" column="0" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/config/security/JwtTokenUtil.java" />
+      <jump line="41" column="40" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/account/impl/UserServiceImpl.java" />
+      <jump line="44" column="40" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/mapper/account/RolePermissionLinkMapper.java" />
+      <jump line="32" column="23" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/account/impl/PermissionServiceImpl.java" />
+      <jump line="24" column="49" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/account/impl/PermissionServiceImpl.java" />
+      <jump line="36" column="42" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/impl/ManufactureRecordServiceImpl.java" />
+      <jump line="26" column="76" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/record/impl/ManufactureRecordServiceImpl.java" />
+      <jump line="32" column="61" filename="D:/Java/sourcecode/wisdom-site/src/main/java/com/wisdom/site/service/impl/FeedbackServiceImpl.java" />
+      <jump line="44" column="51" filename="D:/Java/sourcecode/bim/src/main/java/isa/qa/bim/service/company/impl/DepartmentStaffServiceImpl.java" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <text />
+      </register>
+      <register name="&quot;" type="4">
+        <text>,</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwiXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>@ApiImplicitParams(value = {
+			@ApiImplicitParam(name = &quot;monomerId&quot;, value = &quot;单体id或者区域id&quot;, paramType = &quot;query&quot;),
+			@ApiImplicitParam(name = &quot;type&quot;, value = &quot;产品的列表1-构建， 2-围护， 3-辅材&quot;, paramType = &quot;query&quot;)
+	})
+	@</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gIm1vbm9tZXJJZCIsIHZhbHVlID0gIrWlzOVpZCIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjaGVja0FwcGx5LnNldENyZWF0ZVRpbWUoRGF0ZS5mcm9tKEluc3RhbnQubm93KCkpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNoZWNrQXJndW1lbnQoT2JqZWN0cy5ub25OdWxsKHVzZXIpLCAizrTV0rW9ttTTprXE08O7pyIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHVzZXIuc2V0UGFzc3dvcmQocGFzc3dvcmRFbmNvZGVyLmVuY29kZShyZXF1ZXN0Vk8uZ2V0UGFzc3dvcmQoKSkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHVzZXIuc2V0Um9sZXMocm9sZVJlcG9zaXRvcnkuZmluZFJvbGVzQnlOYW1lSW4ocmVxdWVzdFZPLmdldFJvbGVOYW1lcygpKSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHVzZXIuc2V0Q3JlYXRlVGltZShEYXRlLmZyb20oSW5zdGFudC5ub3coKSkpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDwiXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDwiXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>27 56 co</entry>
+        <entry>27 55 co</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
