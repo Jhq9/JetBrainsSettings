@@ -102,7 +102,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Application'</Description>
-          <Count>104</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PermissionGrou....main()'">
