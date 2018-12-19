@@ -193,12 +193,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Search Everywhere">
+        <Item>
+          <IdeaActionID>SearchEverywhere</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+引号'</ShortCut>
+          <Description>Search Everywhere</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>14</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Translation Dialog...">
