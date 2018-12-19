@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+</keymap>
