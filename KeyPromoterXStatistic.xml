@@ -57,6 +57,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Email'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Email'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RedisZsetTester.removeValue'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -87,6 +95,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Application'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Email.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Email.main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RedisZsetTester'">
