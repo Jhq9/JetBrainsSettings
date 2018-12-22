@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -46,7 +46,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Application'">
@@ -71,6 +71,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'RedisZsetTester.removeValue'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Springboot2EmbeddedJmsApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Springboot2EmbeddedJmsApplication'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Springboot2JmsApplication'">
@@ -111,6 +119,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'RedisZsetTester'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Springboot2EmbeddedJmsApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Springboot2EmbeddedJmsApplication'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Springboot2JmsApplic...'">
@@ -183,6 +199,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Rerun Failed Tests'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Springboot2EmbeddedJmsApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Springboot2EmbeddedJmsApplication'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Springboot2JmsApplication'">
