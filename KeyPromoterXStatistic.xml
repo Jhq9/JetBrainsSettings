@@ -161,6 +161,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Springboot2JdbcApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Springboot2JdbcApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Springboot2JmsApplic...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -247,6 +255,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Springboot2EmbeddedJmsApplication'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Springboot2JdbcApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Springboot2JdbcApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Springboot2JmsApplication'">
