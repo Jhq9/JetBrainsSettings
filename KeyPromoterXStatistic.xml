@@ -14,7 +14,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TimeServer'">
@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>95</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -86,7 +86,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Application'</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DicardServer'">
@@ -350,7 +350,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DicardServer'">
@@ -454,7 +454,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
