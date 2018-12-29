@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>5</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApplicationServiceTester.saveApplication'">
@@ -41,6 +41,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'saveApplication()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'saveApplication()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Translation Dialog...">
+        <Item>
+          <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+O'</ShortCut>
+          <Description>Show Translation Dialog...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ApplicationServiceTester.saveApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -54,7 +70,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
