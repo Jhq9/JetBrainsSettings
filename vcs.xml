@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/wufeisoft/ryf_mms2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Jhq9/springboot-2-mybatis-seed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Java\sourcecode" />
+    <option name="cloneParentDir" value="$USER_HOME$/文稿/Java/sourcecode" />
   </component>
 </application>
