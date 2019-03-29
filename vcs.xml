@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/Jhq9/springboot-2-mybatis-seed.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/framework-collection/microservice-api-seed-jpa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/文稿/Java/sourcecode" />
+    <option name="cloneParentDir" value="D:\Java" />
   </component>
 </application>
