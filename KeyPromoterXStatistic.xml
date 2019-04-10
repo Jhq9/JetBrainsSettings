@@ -494,7 +494,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AdminClientApplication'">
@@ -862,7 +862,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'RestApiApplication'</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ServerZipkinClientHiApplication'">
@@ -990,7 +990,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'WebApplication'</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WebsocketServerApplication'">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>29</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminClientApplication'">
