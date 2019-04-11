@@ -1009,6 +1009,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'WebsocketMicroserviceApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'WebsocketMicroserviceApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'WebsocketServerApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
