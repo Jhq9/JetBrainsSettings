@@ -34,6 +34,10 @@
           <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/framework-collection/microservice-api-seed.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.isa.qa/bim-server/bim-server-new.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/文档/Java/sourcecode" />
