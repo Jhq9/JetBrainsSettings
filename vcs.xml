@@ -26,6 +26,14 @@
           <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/bolian-mini/sign-in-microservice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/framework-collection/base-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/framework-collection/microservice-api-seed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/文档/Java/sourcecode" />
