@@ -22,12 +22,8 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="jhq9" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Jhq9/spring-cloud-g-learning.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/文档/Java/sourcecode" />
+    <option name="cloneParentDir" value="D:\Java\sourcecode" />
   </component>
 </application>
