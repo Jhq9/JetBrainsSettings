@@ -1,10 +1,16 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="May KeyMap" parent="$default">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="alt v" />
