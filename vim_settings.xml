@@ -9,6 +9,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Java/sourcecode/base-microservice/pom.xml" timestamp="1555322025276">
+        <mark key="[" line="11" column="36" />
+      </file>
       <file name="/fragment.java" timestamp="1555318398604">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,6 +29,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
