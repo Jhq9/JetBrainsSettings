@@ -1,20 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="squid:CommentedOutCodeLine" />
-        <option value="squid:S1854" />
-      </set>
-    </option>
-    <option name="sonarQubeServers">
-      <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="http://192.168.2.100:9000" />
-          <token>df9ddf93df99df9fdfcfdf99df9bdfc8dfc8df9cdf9ddf9bdf9ddfcbdfcedf9adfcbdf99df9cdf9bdfcfdfc8df9cdf93df9bdf9bdfccdf9fdf98df9fdfcbdf98dfcbdfc8df9adf9cdf9cdfcbdf9ddf9b</token>
-          <option name="name" value="Isa Sonar" />
-          <organizationKey>default-organization</organizationKey>
-        </SonarQubeServer>
-      </list>
-    </option>
+    <option name="autoTrigger" value="false" />
   </component>
 </application>

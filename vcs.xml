@@ -3,6 +3,14 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/Jhq9/spring-cloud-g-learning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/bolian-mini/Intelligent-classroom-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/bolian-mini/sign-in-microservice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
@@ -23,15 +31,149 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Jhq9/spring-cloud-g-learning.git" />
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/jinhuaquan/springboot2-mybatis-quartz-session-seed-project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/jinhuaquan/springboot-api-seed-mybatis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/jinhuaquan/springboot-api-seed-jpa.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.isa.qa/bim-server/bim-server-new.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.isa.qa/jinhuaquan/kyriba-new.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.isa.qa/xiongdaijun/translator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/bolian-mini/bolian-mini-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@git.xiaopo.xyz/we-are-a-team/base-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-projects/spring-framework" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@git.xiaopo.xyz/factking/factking.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xuxueli/xxl-job.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-projects/spring-boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/framework-collection/bolian-auth-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/bolian-mini/smart-classroom-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-gradle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EdisonXu/sbs-axon.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.minib2c.com" />
+          <option name="userName" value="jinhuaquan" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/paascloud/paascloud-master.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhoutaoo/SpringCloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/TheAlgorithms/Java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuauan:whyjhqlove512@gitlab.minib2c.com/framework-collection/microservice-api-seed-mybatis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/framework-collection/microservice-api-seed-mybatis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/Motorhome/motorhome-community-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jinhuaquan:whyjhqlove512@gitlab.minib2c.com/Motorhome/motorhome-auth-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.minib2c.com/Motorhome/motorhome-gateway-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.minib2c.com/Motorhome/motorhome-user-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/leongfeng/Algorithms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Dromara/hmily.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Dromara/soul.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Jhq9/intelligent-site-backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Wechat-Group/WxJava.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/elunez/eladmin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yangzongzhuan/RuoYi-fast.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Java/sourcecode" />
+    <option name="cloneParentDir" value="D:\Programs\Java\SourceCode" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
   </component>
 </application>
